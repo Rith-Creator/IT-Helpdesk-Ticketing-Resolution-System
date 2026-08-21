@@ -56,9 +56,9 @@ Tested through both interfaces: generating tickets, viewing the open queue, sele
 
 Short walkthrough of the app in action — generating a batch of tickets, opening one, selecting a resolution, and seeing it graded.
 
-![Demo](screenshots/demo.gif)
+https://github.com/user-attachments/assets/e6169564-fe23-480d-a676-e406febff9b8
 
-*(Or, if hosted elsewhere: [Watch the demo video](your-video-link-here))*
+
 
 ## Screenshots
 
