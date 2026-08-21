@@ -63,13 +63,14 @@ Short walkthrough of the app in action — generating a batch of tickets, openin
 ## Screenshots
 
 ### Ticket Queue
-![Ticket Queue](screenshots/ticket-queue.png)
+The main page — open and resolved tickets, with a control to generate new random tickets on demand.
 
-### Ticket Detail & Resolution
-![Ticket Detail](screenshots/ticket-detail.png)
+![Main Page](screenshots/main-page.png)
 
 ### Resolved Ticket (Graded)
-![Resolved Ticket](screenshots/resolved-ticket.png)
+A resolved ticket showing the selected answer and correct answer side by side, with an automatic Correct/Incorrect verdict.
+
+![Problem Solved](screenshots/problem-solved.png)
 
 ## Notes
 
